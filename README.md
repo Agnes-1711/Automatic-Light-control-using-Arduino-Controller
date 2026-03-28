@@ -1,13 +1,9 @@
 # Automatic Light Controller using LDR and Arduino UNO controller.
-
 ##  AIM:
-
 To design and simulate automatic light controller using LDR and Arduino UNO controller in proteus.
-
 ## Software required:
 Arduino IDE </br>
 Proteous
-
 ## PROCEDURE:
 ### Arduino IDE
 Step1:Open the Arduino IDE </br>
@@ -50,17 +46,9 @@ The circuit diagram shown in the image represents a light sensor and street ligh
 
 Overall, this circuit diagram showcases how the Arduino, LDR, ADC, relay, and transistor are interconnected to create a light sensor and street light control system. The Arduino reads the resistance value of the LDR, converts it into a digital value, and based on that, controls the street lights using the relay.
 
-
-
-
-
-
-
-
 LDR Features of LDR are as follows: 
 
 1. High reliability. 2. Light weight. 3. Wide spectral response. 4. Wide ambient temperature range.
-
 
 ## PROGRAM:
 ```
